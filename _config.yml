@@ -1,3 +1,2 @@
 sass:
-    sass_dir: assets/sass
-    load_paths: [assets/sass/abstracts, assets/sass/base, assets/sass/layout]
+    sass_dir: _sass
